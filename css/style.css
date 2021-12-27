@@ -1,0 +1,23 @@
+body {
+	font-size: 15px;
+}
+
+.left-menu a {
+	text-decoration: none;
+}
+
+	.left-menu a:hover {
+		text-decoration: underline;
+	}
+
+.del-row-item {
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+}
+
+.btn-group-sm>.btn, .btn-sm {
+    padding: 0.25rem 0.4rem;
+    font-size: .5rem;
+    border-radius: 0.2rem;
+}
